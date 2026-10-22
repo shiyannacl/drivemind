@@ -6,6 +6,8 @@ Yan Shi, Kehua Chen, Jiarui Qi, Yihong Tang, Haicheng Liao, Yinhai Wang
 
 NeurIPS 2026
 
+  **[Project page](https://qijiarui20021031.github.io/DriveMind/)**
+
 ## Code coming soon
 
 We are cleaning up the code and will release it here. Star or watch this repository to be notified.
